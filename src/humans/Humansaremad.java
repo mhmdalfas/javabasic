@@ -20,7 +20,7 @@ public class Humansaremad extends Humans{
          humanList.add(new Humans("Aaln",19,"Yes","Religion","India","Indian","behaviour","male"));
          humanList.add(new Humans("Lana",16,"No","Religion","India","Indian","behaviour","female"));
          humanList.add(new Humans("Lana",9,"No","Religion","India","Indian","behaviour","female"));
-        String var=sc.nextLine();
+         String var=sc.nextLine();
          
          
          
